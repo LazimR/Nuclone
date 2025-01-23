@@ -31,3 +31,14 @@ code .
 
 Para iniciar o projeto 
 npm start
+
+Se você estiver com um dispositivo com modo de depuração ativo, será instalado
+o Expo Go e a aplicação ira abrir, caso não abrir leia o QR pelo aplicativo do expo Go
+
+A aplicação padrão do expo é basicamente um guia.
+
+################################
+Eu apaguei as paginas geradas pelo expo por motivo de estudo.
+
+Meu objetivo com este projeto é explorar o potencial do React Native.
+Uma vez que eu já trabalhei em um projeto utilizando React.
