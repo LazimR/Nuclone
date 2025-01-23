@@ -26,9 +26,9 @@ React Native Tools: Suporte para debug e execução de comandos diretamente no V
 ES7+ React/Redux/React-Native snippets: Facilita a escrita de código com atalhos para componentes.
 
 # Criando projeto React Native(com expo)
-npx create-expo-app MeuProjeto
-cd MeuProjeto
-code .
+npx create-expo-app MeuProjeto\n
+cd MeuProjeto\n
+code .\n
 
 Para iniciar o projeto 
 npm start
