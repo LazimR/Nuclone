@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Bem vindo ao meu Nuclone 👋
 # Primeiros passos
 Primeiro foi feita a instalação das dependencias do React Native
 
@@ -16,6 +16,7 @@ https://developer.android.com/studio
 # Configurando as variaveis de ambiente
 
 ANDROID_HOME | C:\Users\You\AppData\Local\Android\Sdk
+
 JAVA_HOME | C:\Program Files\Microsoft\jdk-17.0.13.11-hotspot\
 
 # Instalando Extensões uteis
@@ -38,7 +39,9 @@ o Expo Go e a aplicação ira abrir, caso não abrir leia o QR pelo aplicativo d
 A aplicação padrão do expo é basicamente um guia.
 
 ################################
+
 Eu apaguei as paginas geradas pelo expo por motivo de estudo.
 
 Meu objetivo com este projeto é explorar o potencial do React Native.
+
 Uma vez que eu já trabalhei em um projeto utilizando React.
